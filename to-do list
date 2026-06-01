@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>To Do List</title>
+</head>
+<body>
+
+```
+<h1>My To Do List</h1>
+
+<input type="text" placeholder="Enter task">
+<button>Add Task</button>
+
+<h3>Tasks</h3>
+
+<ul>
+    <li>Complete HTML Assignment</li>
+    <li>Practice CSS</li>
+    <li>Build Portfolio Website</li>
+    <li>Learn JavaScript Basics</li>
+</ul>
+```
+
+</body>
+</html>
