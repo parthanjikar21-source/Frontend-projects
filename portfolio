@@ -1,0 +1,80 @@
+<body>
+
+<div class="container">
+
+    <h1>Parth Anjikar</h1>
+
+    <p>
+        Computer Engineering Student |
+        Frontend Developer |
+        Pune, Maharashtra
+    </p>
+
+    <hr>
+
+    <h2>About Me</h2>
+
+    <p>
+        I am a Computer Engineering student at
+        MIT-WPU School of Polytechnic & Skill Development.
+        I am interested in Frontend Development,
+        Web Technologies and Python Programming.
+    </p>
+
+    <hr>
+
+    <h2>Skills</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Python</li>
+        <li>C</li>
+        <li>C++</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+
+    <h3>Portfolio Website</h3>
+    <p>Responsive portfolio built using HTML and CSS.</p>
+
+    <h3>To-Do List</h3>
+    <p>Task management application using JavaScript.</p>
+
+    <h3>Calculator</h3>
+    <p>Calculator supporting basic arithmetic operations.</p>
+
+    <hr>
+
+    <h2>Education</h2>
+
+    <p>
+        MIT-WPU School of Polytechnic & Skill Development
+        <br>
+        Diploma in Computer Engineering
+    </p>
+
+    <hr>
+
+    <h2>Achievements</h2>
+
+    <ul>
+        <li>Ideathon Competition - Qualified for Round 2</li>
+        <li>Team Captain</li>
+    </ul>
+
+    <hr>
+
+    <h2>Contact</h2>
+
+    <p>Email: parthanjikar21@gmail.com</p>
+    <p>Phone: 9307750281</p>
+    <p>Pune, Maharashtra</p>
+
+</div>
+
+</body>
